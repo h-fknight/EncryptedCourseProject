@@ -12,3 +12,5 @@ The Hash algorithm includes SHA and MD5, which are optional in the program;
 Asymmetric encryption algorithm RSA, the program can generate different private key and public key pair; 
 It can not only realize the string signature and encryption, but also realize the file signature and encryption; 
 The graphic process is completed in a program.
+
+# The main file is CurProjectDlg.cpp
