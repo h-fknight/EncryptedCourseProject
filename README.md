@@ -14,3 +14,6 @@ It can not only realize the string signature and encryption, but also realize th
 The graphic process is completed in a program.
 
 # The main file is CurProjectDlg.cpp
+
+![image](https://user-images.githubusercontent.com/87640208/197196279-6766b688-15c2-4688-ab67-96c456e3eb20.png)
+
