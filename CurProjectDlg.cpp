@@ -1,7 +1,4 @@
 ﻿
-// CurProjectDlg.cpp: 实现文件
-//
-
 #include "DES.h"
 #include "AES.h"
 #include "Rsa.h"
